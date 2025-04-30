@@ -1,5 +1,5 @@
 
-<h3 align="center"><img alt='hi' width="20px"  src="[https://media.tenor.com/2CC_MxnlCwEAAAAM/shake-hand.gif](https://media.tenor.com/Yj4grvIBitkAAAAM/jake-is.gif)">, I'm Ayushee Gupta! A passionate Frontend Developer from Indore</h3>
+<h3 align="center"><img alt='hi' width="40px"align="center"  src="https://media.tenor.com/nebZyl8oN7IAAAAm/wave-hello.web"> I'm Ayushee Gupta! A passionate Frontend Developer from Indore</h3> <img alt='hi' width="40px"align="center"  src="">
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ayushee1906&label=Profile%20views&color=0e75b6&style=flat" alt="ayushee1906" /> </p>
 
