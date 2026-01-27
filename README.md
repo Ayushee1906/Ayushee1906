@@ -104,7 +104,7 @@ Currently open to opportunities in <strong>Data Analysis, Big Data, and Machine 
 
 ---
 
-<h3 align="left">🛠 Languages & Tools</h3>
+<h2 align="left">🛠 Languages & Tools</h2>
 
 ### 👩‍💻 Programming & Query Languages
 <p align="left">
