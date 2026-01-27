@@ -137,10 +137,9 @@ Currently open to opportunities in <strong>Data Analysis, Big Data, and Machine 
 ---
 
 
-
 <p>
-<img align="center"
-     src="https://github-readme-stats.vercel.app/api?username=ayushee1906&show_icons=true" />
+<img align="right"
+     src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushee1906&layout=compact" />
 </p>
 
 <p>
