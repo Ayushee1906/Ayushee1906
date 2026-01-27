@@ -52,7 +52,7 @@ and working with distributed data systems.
 
 
 
-<code>Python</code>, <code>SQL</code>, <code>HiveQL</code>, <code>JavaScript (basic)</code>
+<code>Python</code>, <code>SQL</code>, <code>HiveQL</code>, <code>JavaScript </code>
 </p>
 
 <p>
@@ -62,7 +62,7 @@ and working with distributed data systems.
 
 <p>
 <strong>Big Data & Databases:</strong><br>
-<code>Hadoop (HDFS)</code>, <code>Apache Hive</code>, <code>PostgreSQL</code>
+<code>Hadoop (HDFS)</code>, <code>Apache Hive</code> ,<code>spark(basic)</code>, <code>PostgreSQL</code>
 </p>
 
 <p>
