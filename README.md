@@ -43,12 +43,13 @@ and working with distributed data systems.
 ### 🧠 Technical Skills
 
 <p>
-<strong>Programming & Query Languages:</strong><br> <img 
+<strong>Programming & Query Languages:</strong><br><img 
   align="right" 
-  alt="coding girl" 
+  alt="data girl" 
   width="420" 
-  src="https://raw.githubusercontent.com/ayushee1906/ayushee1906/main/assets/coding_girl.png"
+  src="https://raw.githubusercontent.com/Ayushee1906/Ayushee1906/main/assets/girlforgit.gif"
 />
+
 
 
 <code>Python</code>, <code>SQL</code>, <code>HiveQL</code>, <code>JavaScript (basic)</code>
