@@ -126,6 +126,9 @@ Currently open to opportunities in <strong>Data Analysis, Big Data, and Machine 
        alt="JavaScript" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"
        alt="Bootstrap" width="45" height="45"/>
+  <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
+
 </p>
 
 ---
